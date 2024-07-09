@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousaphatao.github.io/sitemap
+Sitemap: https://ousaphatao.github.io/app/sitemap
+Sitemap: https://ousaphatao.github.io/assets/sitemap
+Sitemap: https://ousaphatao.github.io/css/sitemap
+Sitemap: https://ousaphatao.github.io/includes/sitemap
+Sitemap: https://ousaphatao.github.io/item/sitemap
+Sitemap: https://ousaphatao.github.io/src/sitemap
